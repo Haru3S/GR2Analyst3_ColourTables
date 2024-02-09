@@ -1,0 +1,15 @@
+ColorTable
+{
+ Category = "BR" // this color table is for base reflectivity (BR)
+ Units = "DBZ" // its units are DBZ
+ Step = 10 // tick marks are spaced 10 dbz apart
+ Color[90] = rgb( 0, 0, 0 )
+ Color[80] = rgb( 128, 128, 128 )
+ Color[70] = gradient( rgb( 125, 0, 108 ), rgb( 92, 0, 100 ) )
+ Color[60] = gradient( rgb( 182, 45, 100 ), rgb( 156, 16, 109 ) )
+ Color[50] = gradient( rgb( 245, 168, 24 ), rgb( 205, 75, 75 ) )
+ Color[40] = gradient( rgb( 117, 208, 89 ), rgb( 220, 220, 30 ) )
+ Color[30] = gradient( rgb( 0, 144, 147 ), rgb( 0, 179, 125 ) )
+ Color[20] = gradient( rgb( 40, 16, 158 ), rgb( 0, 101, 154 ) )
+ Color[10] = gradient( rgb( 67, 26, 120 ), rgb( 52, 33, 141 ) )
+}
