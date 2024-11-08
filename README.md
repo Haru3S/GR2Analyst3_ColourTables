@@ -15,5 +15,5 @@ This table it purely for cosemetics reason and to _sorta_ feel like your using t
 Guide | URL 
 ---: | --- 
  User Defined Products |  http://www.grlevelx.com/downloads/UserDefinedProducts_3.pdf 
- Color Tables          |  http://www.grlevelx.com/downloads/ColorTables_300.pdf       
+ Colour Tables          |  http://www.grlevelx.com/downloads/ColorTables_300.pdf       
 
